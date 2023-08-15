@@ -12,7 +12,7 @@ This is a React-based photo gallery app that allows you to display multiple phot
 
 ## Demo
 
-You can check out the live demo of the application [here](www.example.com).
+You can check out the live demo of the application [here](https://photo-gallery-sagnik.netlify.app/).
 
 ## Tech Stack
 
